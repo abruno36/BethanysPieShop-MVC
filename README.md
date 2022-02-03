@@ -4,7 +4,7 @@
 >
 > **Objetivo:**     
 >
-> Fizemos o relacionamento de filmes com atores, ou seja, um relacionamento de cardinalidade N:N (muitos para muitos). Um filme possui um elenco de vários atores e um ator pode atuar em vários filmes. Contudo, o Entity Framework Core não suporta esse tipo de cardinalidade onde criamos uma classe que será responsável pelo relacionamento entre outras duas classes.  
+> O objetivo desta aplicação foi a criação de uma loja virtual de tortas com tecnologias avançadas em RAZOR - Model Binding - Form Tag Helpers - Identity (Authentication and authorization) 
 ---
 > **Classe Principal:** considerada a classe independente da relação.
 >
@@ -16,7 +16,7 @@
 >
 <img src="https://github.com/abruno36/BethanysPieShop-MVC/blob/master/BethanysPieShop/wwwroot/Images/CenarioAPP.png" alt="Cenário geral"/>
 >
-<img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/ModeloDesign.png" alt="Fluxo Base"/>
+<img src="https://github.com/abruno36/BethanysPieShop-MVC/blob/master/BethanysPieShop/wwwroot/Images/Identity.png" alt="Fluxo Base"/>
 >
 >
 <img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/ModeloDesign1.png" alt="Fluxo Base"/>
