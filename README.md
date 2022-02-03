@@ -1,4 +1,4 @@
-# Entity Framework Core parte 1: App MVC para API  
+# Entity Framework Core parte 1: App MVC .NET CORE 3.1 
 
 > ## Informações
 >
@@ -10,17 +10,17 @@
 >
 > **Classe Dependente:** classe dependente da relação, ou "classe filha". É nela que reside a chave estrangeira.
 
-<img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/fluxoBase.png" alt="Fluxo Base"/>
+<img src="https://github.com/abruno36/BethanysPieShop-MVC/blob/master/BethanysPieShop/wwwroot/Images/bethanylogo.png" alt="Logo Bethany"/>
 
 > **Tecnologias:** que estão envolvidas nessa aplicação de exemplo como **Framework Web, Aspnet MVC versão Core**, como persistência: **Entity Framework Core** também. A parte de segurança tem o **login, logout**, registros de usuários, a gente está usando a **Identity**, apresentação das páginas HTML está sendo feita através do **RAZOR** que é a engine padrão do Aspnet MVC.
 >
-<img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/fluxoBase1.png" alt="Fluxo Base"/>
+<img src="https://github.com/abruno36/BethanysPieShop-MVC/blob/master/BethanysPieShop/wwwroot/Images/CenarioAPP.png" alt="Cenário geral"/>
 >
 <img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/ModeloDesign.png" alt="Fluxo Base"/>
 >
 >
 <img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/ModeloDesign1.png" alt="Fluxo Base"/>
->
+>   
 >
 <img src="https://github.com/abruno36/AluraWebAPI/blob/master/Alura.WebAPI.WebApp/wwwroot/images/ModeloDesign2.png" alt="Fluxo Base"/>
 >
