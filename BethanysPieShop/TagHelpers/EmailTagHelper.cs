@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Razor.TagHelpers;
+﻿using Microsoft.AspNetCore.Razor.TagHelpers;
 
 namespace BethanysPieShop.TagHelpers
 {
@@ -18,5 +14,6 @@ namespace BethanysPieShop.TagHelpers
             output.Attributes.SetAttribute("href", "mailto:" + Address);
             output.Content.SetContent(Content);
         }
+
     }
 }
